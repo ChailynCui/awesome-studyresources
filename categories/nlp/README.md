@@ -38,6 +38,12 @@
 
 ## 语言模型
 
+### Transformer
+
+| 资源 | 类型 | 语言 | 推荐理由 |
+|------|------|------|----------|
+| [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/) | 📝 博客 | 🇬🇧 英文 | 史上最经典的 Transformer 可视化教程，用图解和动画清晰解释 Transformer 架构，被 MIT、Stanford、Harvard 等顶尖大学课程采用 |
+
 ### BERT
 
 *待添加...*
