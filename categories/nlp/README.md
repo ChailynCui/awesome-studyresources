@@ -24,9 +24,11 @@
 
 ## 词向量
 
-### Word2Vec
+### Word Embedding
 
-*待添加...*
+| 资源 | 类型 | 语言 | 推荐理由 |
+|------|------|------|----------|
+| [Word Embedding and Word2Vec, Clearly Explained!!! - StatQuest](https://www.youtube.com/watch?v=viZrOnJclY0) | 📺 视频 | 🇬🇧 英文 | StatQuest 风格，简洁明了又严谨地解释很适合初学者的词嵌入的教程，例子很直观 |
 
 ### GloVe
 
