@@ -32,7 +32,7 @@
 
 | 资源 | 类型 | 语言 | 推荐理由 |
 |------|------|------|----------|
-| [Long Short-Term Memory (LSTM), Clearly Explained - StatQuest](https://www.youtube.com/watch?v=YCzL96nL7j0) | 📺 视频 | 🇬🇧 英文 | StatQuest 经典教程，可视化讲解清晰，把复杂的 LSTM 机制拆解成简单易懂的步骤，适合初学者|
+| [Long Short-Term Memory (LSTM), Clearly Explained - StatQuest](https://www.youtube.com/watch?v=YCzL96nL7j0) | 📺 视频 | 🇬🇧 英文 | StatQuest 教程，可视化讲解清晰，把复杂的 LSTM 机制拆解成简单易懂的步骤，适合初学者|
 
 ### GRU
 
