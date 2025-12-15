@@ -51,6 +51,7 @@
 awesome-studyresources/
 ├── README.md                      # 主页索引
 ├── CONTRIBUTING.md                # 贡献指南（本文件）
+├── CHANGELOG.md                   # 更新日志
 └── categories/                    # 分类目录
     ├── deep-learning/
     │   └── README.md

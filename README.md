@@ -2,7 +2,7 @@
 
 > 本人学习过程中觉得高质量的资源收藏夹 —— 记录那些把知识讲得清清楚楚的视频、博客、论文、代码和公众号。
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | 📅 [更新日志](./CHANGELOG.md)
 
 ---
 
