@@ -15,7 +15,7 @@
 | [机器学习](./categories/machine-learning/README.md) | 传统 ML 算法、特征工程、模型评估等 |
 | [NLP 自然语言处理](./categories/nlp/README.md) | 文本处理、语言模型、对话系统等 |
 | [计算机视觉](./categories/computer-vision/README.md) | 图像处理、目标检测、图像生成等 |
-| [计算机图形学](./categories/computer graphics/README.md) | 物理模拟、动画等 |
+| [计算机图形学](./categories/computer-graphics/README.md) | 物理模拟、动画等 |
 
 
 ### 💻 编程 & 软件开发
