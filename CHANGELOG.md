@@ -10,12 +10,8 @@
 
 #### 计算机图形学
 - 📺 [现代计算机图形学入门 - 闫令琪](https://www.bilibili.com/video/BV1X7411F744/) - 适合计算机图形学入门，讲解通俗易懂，深入底层计算原理 (贡献者: @aosenZh)
-
-#### 编程语言
-- 📖 [Go语言圣经](https://gopl-zh.github.io/) - 适合初学者的一本书，包含 Go 语言的基础和进阶知识 (贡献者: @RubyYao0520)
-
 #### 深度学习
-- 📺 [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - StatQuest](https://www.youtube.com/watch?v=zxQyTK8quyY) - Transformer 超清晰讲解 (贡献者: @ChailynCui)
+- 📝 [A Recipe for Training Neural Networks - Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/) - 经典训练实战指南，从数据检查、基线、正则化到调参的完整流程，帮助规避常见坑 (贡献者: @ChailynCui)
 
 ### 📝 文档更新
 
@@ -35,6 +31,7 @@
 
 #### 深度学习
 - 📺 [Long Short-Term Memory (LSTM), Clearly Explained - StatQuest](https://www.youtube.com/watch?v=YCzL96nL7j0) - LSTM 可视化讲解 (贡献者: @ChailynCui)
+- 📺 [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! - StatQuest](https://www.youtube.com/watch?v=zxQyTK8quyY) - Transformer 超清晰讲解 (贡献者: @ChailynCui)
 - 📝 [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/) - 经典 Transformer 可视化教程 (贡献者: @ChailynCui)
 
 #### NLP 自然语言处理
