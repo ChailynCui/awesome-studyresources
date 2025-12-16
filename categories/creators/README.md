@@ -24,6 +24,7 @@
 | 频道 | 领域 | 推荐理由 | 贡献者 |
 |------|------|----------|--------|
 | [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) | 统计/ML/数据科学/AI | 把复杂的统计和机器学习概念拆解成简单易懂的小步骤，不会过度简化而是真正建立理解，可视化讲解清晰，BAM!讲的很好我觉得 | ChailynCui |
+| [3Blue1Brown](https://www.youtube.com/@3blue1brown) | 数学/线性代数/微积分/深度学习 | 以直观几何可视化著称，把抽象数学概念讲得形象生动，是线代、微积分和神经网络入门的宝藏频道 | ChailynCui |
 
 *待添加更多...*
 
