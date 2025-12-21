@@ -15,6 +15,13 @@
 - 🔧 [Snipaste](https://zh.snipaste.com/) - 强大的截图+贴图工具，支持像素级控制、取色器、历史记录、图片标注等功能，贴图功能特别适合程序员和设计师，能显著提升工作效率 (贡献者: @ChailynCui)
 - 🔧 [Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) - GitHub 代码浏览神器，提供 IDE 风格的代码树、快速搜索、书签功能，支持私有仓库和 GitHub Enterprise，大幅提升代码阅读和审查效率 (贡献者: @ChailynCui)
 
+#### 优质创作者
+- 💻 [Datawhale - GitHub](https://github.com/datawhalechina) - 专注于数据科学和机器学习的开源组织，提供大量优质中文教程，包括《开源大模型食用指南》、《机器学习公式详解》、《李宏毅深度学习教程》、《强化学习教程》等，适合中文学习者 (贡献者: @ChailynCui)
+
+### 🏗️ 项目结构
+
+- 优质创作者分类新增"GitHub 组织"子分类
+
 ---
 
 ## 2025-12-19
