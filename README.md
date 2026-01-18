@@ -24,6 +24,8 @@
 | [编程语言](./categories/programming-languages/README.md) | Python、Java、Go、Rust 等 |
 | [前端开发](./categories/frontend/README.md) | HTML、CSS、JavaScript、React、Vue 等 |
 | [后端开发](./categories/backend/README.md) | Web 框架、API 设计、服务端架构等 |
+| [LLM 开发](./categories/llm-development/README.md) | 大语言模型开发、微调、部署等 |
+| [Agent 开发](./categories/agent-development/README.md) | AI Agent、智能体开发、多智能体系统等 |
 | [系统设计](./categories/system-design/README.md) | 架构设计、分布式系统、微服务等 |
 | [数据库](./categories/database/README.md) | SQL、NoSQL、数据建模等 |
 | [DevOps](./categories/devops/README.md) | CI/CD、容器化、云服务等 |

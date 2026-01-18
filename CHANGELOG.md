@@ -8,8 +8,16 @@
 
 ### ✨ 新增资源
 
-#### NLP 自然语言处理
+#### LLM 开发
 - 📝 [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 (贡献者: @ChailynCui)
+
+#### Agent 开发
+- 📝 [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 (贡献者: @ChailynCui)
+
+### 🏗️ 项目结构
+
+- 编程 & 软件开发分类新增"LLM 开发"子分类
+- 编程 & 软件开发分类新增"Agent 开发"子分类
 
 ---
 

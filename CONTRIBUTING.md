@@ -67,6 +67,10 @@ awesome-studyresources/
     │   └── README.md
     ├── backend/
     │   └── README.md
+    ├── llm-development/
+    │   └── README.md
+    ├── agent-development/
+    │   └── README.md
     ├── system-design/
     │   └── README.md
     ├── database/

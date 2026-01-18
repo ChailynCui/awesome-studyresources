@@ -64,7 +64,6 @@
 
 | 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
 |------|------|------|----------|--------|
-| [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) | 📝 知识库 | 🇨🇳 中文 | AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 | ChailynCui |
 | [与AI结对编程：实用的 Prompt 优化技巧](https://mp.weixin.qq.com/s/88XO2ooWkTuMJhhyQJ12MA) | 📱 公众号 | 🇨🇳 中文 | 分享一些开发中实用的 Prompt 优化技巧，帮助开发者更高效地与 AI 协作，对我来说挺有用 | ChailynCui |
 
 ### RAG
