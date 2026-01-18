@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-01-18
+
+### ✨ 新增资源
+
+#### NLP 自然语言处理
+- 📝 [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 (贡献者: @ChailynCui)
+
+---
+
 ## 2025-12-29
 
 ### ✨ 新增资源
