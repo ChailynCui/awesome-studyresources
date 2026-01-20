@@ -4,12 +4,31 @@
 
 ---
 
+## 2026-01-20
+
+### ✨ 新增资源
+
+#### LLM 开发
+- 📝 [All-in-RAG - Datawhale](https://datawhalechina.github.io/all-in-rag) - Datawhale 出品的全面 RAG 教程，从零开始学习检索增强生成，系统化讲解 RAG 原理和实践 (贡献者: @ChailynCui)
+- 📺 [RAG in Agents - YouTube](https://www.youtube.com/watch?v=T-D1OfcDW1M) - 讲解 RAG 在 Agent 中的应用，检索增强生成如何提升智能体的能力 (贡献者: @ChailynCui)
+
+#### Agent 开发
+- 📝 [All-in-RAG - Datawhale](https://datawhalechina.github.io/all-in-rag) - Datawhale 出品的全面 RAG 教程，从零开始学习检索增强生成，系统化讲解 RAG 原理和实践 (贡献者: @ChailynCui)
+- 📺 [RAG in Agents - YouTube](https://www.youtube.com/watch?v=T-D1OfcDW1M) - 讲解 RAG 在 Agent 中的应用，检索增强生成如何提升智能体的能力 (贡献者: @ChailynCui)
+
+### 🏗️ 项目结构
+
+- Agent 开发分类新增"RAG 检索增强生成"子分类
+
+---
+
 ## 2026-01-18
 
 ### ✨ 新增资源
 
 #### LLM 开发
 - 📝 [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 (贡献者: @ChailynCui)
+
 
 #### Agent 开发
 - 📝 [Way to AGI - 飞书知识库](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e) - AI/AGI 学习路径知识库，系统化的 AI 学习资源整理 (贡献者: @ChailynCui)

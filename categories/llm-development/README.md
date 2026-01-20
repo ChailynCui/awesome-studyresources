@@ -8,13 +8,19 @@
 
 ## 📑 目录
 
-- [基础概念](#基础概念)
-- [模型微调](#模型微调)
-- [模型部署](#模型部署)
-- [Prompt Engineering](#prompt-engineering)
-- [RAG 检索增强生成](#rag-检索增强生成)
-- [开发框架](#开发框架)
-- [实践项目](#实践项目)
+- [🤖 LLM 开发](#-llm-开发)
+  - [📑 目录](#-目录)
+  - [基础概念](#基础概念)
+  - [模型微调](#模型微调)
+    - [LoRA / QLoRA](#lora--qlora)
+    - [全参数微调](#全参数微调)
+  - [模型部署](#模型部署)
+    - [推理优化](#推理优化)
+    - [量化](#量化)
+  - [Prompt Engineering](#prompt-engineering)
+  - [RAG 检索增强生成](#rag-检索增强生成)
+  - [开发框架](#开发框架)
+  - [实践项目](#实践项目)
 
 ---
 
@@ -58,7 +64,12 @@
 
 ## RAG 检索增强生成
 
-*待添加...*
+| 资源 | 类型 | 语言 | 推荐理由 | 贡献者 |
+|------|------|------|----------|--------|
+| [All-in-RAG - Datawhale](https://datawhalechina.github.io/all-in-rag) | 📝 教程 | 🇨🇳 中文 | Datawhale 出品的全面 RAG 教程，从零开始学习检索增强生成，系统化讲解 RAG 原理和实践 | ChailynCui |
+| [RAG in Agents - YouTube](https://www.youtube.com/watch?v=T-D1OfcDW1M) | 📺 视频 | 🇬🇧 英文 | 讲解 RAG 在 Agent 中的应用，检索增强生成如何提升智能体的能力 | ChailynCui |
+
+*待添加更多...*
 
 ---
 
