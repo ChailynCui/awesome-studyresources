@@ -61,7 +61,6 @@
 | [Octotree - GitHub code tree](https://chromewebstore.google.com/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) | 🔧 浏览器插件 | GitHub 代码浏览神器，提供 IDE 风格的代码树、快速搜索、书签功能，支持私有仓库和 GitHub Enterprise，大幅提升代码阅读和审查效率 | ChailynCui |
 | [MixTeX](https://github.com/RQLuo/MixTeX-Latex-OCR)                      | 🔧 桌面应用 | 截图识别LaTeX 公式的一个应用，支持混合文本识别                                                    | RubyYao    |
 | [LiteMonitor](https://litemonitor.cn/)                                   | 🔧 桌面应用 | 免费开源的轻量级桌面硬件性能监控软件，实时监控 CPU/GPU/显存/内存/磁盘/网络，支持多主题、多语言、横竖显示，极致轻量，仅占用极低资源 | ChailynCui |
-| [Dism++](https://dism.en.softonic.com/)                                  | 🔧 桌面应用 | 免费开源的 Windows 系统优化工具，提供图形化界面管理 DISM，支持清理临时文件、系统优化、备份恢复等功能，帮助清理内存和优化系统性能 | ChailynCui |
 
 ### 笔记工具
 
